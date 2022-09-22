@@ -1,0 +1,41 @@
+.users {
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.users ul {
+  list-style: none;
+  padding: 1rem;
+}
+
+.users li {
+  border: 1px solid #ccc;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+}
+
+.todoNum {
+  font-size: larger;
+  font-weight: bold;
+}
+.todoNum::after {
+  content: ".";
+}
+.todoSpan {
+  max-width: 80%;
+  display: inline-flex;
+}
+
+.delButton {
+  float: right;
+  color: black;
+  background: none;
+  border: 1px solid #51085f;
+  border-radius: 10px;
+  transition: 0.4s;
+}
+.delButton:hover {
+  color: white;
+  border-radius: 10px;
+}

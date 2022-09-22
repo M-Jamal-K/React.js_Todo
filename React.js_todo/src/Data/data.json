@@ -1,0 +1,24 @@
+{
+  "UserTodos": [
+    {
+      "todo": "create a portfolio",
+      "id": 1
+    },
+    {
+      "todo": "Post all of your projeccts",
+      "id": 2
+    },
+    {
+      "todo": "create some other awesome web apps",
+      "id": 3
+    },
+    {
+      "todo": "some other task",
+      "id": 4
+    },
+    {
+      "todo": "This is a todo List in react",
+      "id": 5
+    }
+  ]
+}
